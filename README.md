@@ -15,7 +15,7 @@ Projeto realizado no treinamento do Explorer da Rocketseat <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/Desafio intermediário.jpg" width="100%">
+  <img alt="projeto Mentoria" src=".github/desafio01.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
