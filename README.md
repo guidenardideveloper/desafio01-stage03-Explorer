@@ -28,7 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto faz parte de um desafio do Stage 02 do programa Explorer da Rocketseat. Nele foi trabalhado toda parte de formulário, campos para input e estilização conforme layout fornecido.
+Projeto Mentoria
+
+Este projeto faz parte de um desafio do Stage 03 do programa Explorer da Rocketseat. Nele foi trabalhado toda parte de formulário, campos para input e estilização conforme layout fornecido.
 
 Extra: me desafiei colocando estado de hover nos textos que estão ao lado do nome do campo do input, assim como trabalhei a questão do outline para acessibilidade.
 
